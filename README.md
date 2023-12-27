@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simran Godsey</h1>
 <h3 align="center">working as a Data Analyst Intern @ANALYTICSWITHANAND| Passionate about Unlocking Insights</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#query=female%20programmer&position=8&from_view=keyword&track=ais&uuid=4ef7b34e-9f80-4df4-8517-9726de54d513">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simrangodsey&label=Profile%20views&color=0e75b6&style=flat" alt="simrangodsey" /> </p>
 
