@@ -19,4 +19,4 @@
 <a href="https://www.hackerrank.com/simrangodse18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="simrangodse18" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simrangodsey&show_icons=true&locale=en" alt="simrangodsey" /></p>
+
