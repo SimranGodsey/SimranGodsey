@@ -13,3 +13,4 @@
 
 - ⚡ Fun fact **B.COM alum who transitioned into the realm of IT and is now forging a career in the tech industry.**
 
+You can find my Resume Here ![Click](SimranGodsey_DataAnalyst.pdf)
