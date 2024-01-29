@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/simrangodsey](https://www.novypro.com/profile_projects/simrangodsey)
 
-- 👨‍💻 All of my articles are available at [https://medium.com/@simrangodse18]
+- 👨‍💻 All of my articles are available at [https://medium.com/@simrangodse18](https://medium.com/@simrangodse18)
 
 - 💬 Ask me about **SQL,POWER BI, ADVANCE EXCEL,MATILLION,SNOWFLAKE**
 
