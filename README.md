@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simrangodsey&label=Profile%20views&color=0e75b6&style=flat" alt="simrangodsey" /> </p>
 
-- 🌱 I’m currently looking for the opportunities.**
+- 🌱 I’m currently looking for the opportunities.
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/simrangodsey](https://www.novypro.com/profile_projects/simrangodsey)
 
