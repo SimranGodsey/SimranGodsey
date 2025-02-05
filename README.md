@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Simran Godsey</h1>
-<h3 align="center">working as a Data Analyst Intern @ANALYTICSWITHANAND| Passionate about Unlocking Insights</h3>
+<h3 align="center">working as a Business Analyst @ Razorpay</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simrangodsey&label=Profile%20views&color=0e75b6&style=flat" alt="simrangodsey" /> </p>
 
-- 🌱 I’m currently learning **How to automate data pipeline using Azure & Matillion in order to create an effective data pipeline and connecting it to Dashboard.**
+- 🌱 I’m currently looking for the opportunities.**
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/simrangodsey](https://www.novypro.com/profile_projects/simrangodsey)
 
